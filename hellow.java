@@ -9,4 +9,8 @@ public class hellow {
     public static int sqr(int x){
         return x*X;
     }
+    public static void message(){
+        system.out.println("Hurray!! we are abale to contribute open source!")
+    }
+ 
 }
